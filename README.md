@@ -20,7 +20,8 @@ A **LinkedIn Clone** designed to replicate the essential UI components and layou
 
 1. Clone the repository using the command:  
    ```bash
-   git clone <repository_url> ```
+   git clone <repository_url>
+   ```
 2. Navigate to the project folder and open the index.html file in your browser.
 3. Explore the layout and features!
 
